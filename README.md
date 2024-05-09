@@ -19,11 +19,13 @@ Aprendiendo programación día a día
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 <div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mckenziev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mckenziev&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mckenziev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mckenziev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
